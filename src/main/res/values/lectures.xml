@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="lecture_selection">
+
+        <item>CSE101</item>
+        <item>CSE102</item>
+        <item>CSE107</item>
+        <item>CSE231</item>
+        <item>CSE233</item>
+        <item>CSE241</item>
+        <item>CSE321</item>
+        <item>CSE341</item>
+        <item>CSE312</item>
+        <item>CSE443</item>
+        <item>MATH101</item>
+        <item>PHYS102</item>
+        <item>TUR102</item>
+    </string-array>
+</resources>

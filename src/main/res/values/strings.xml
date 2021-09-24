@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">GTU \n Attendance \nSystem</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="account" translatable="false">Already have an account?</string>
+    <string name="user_name" translatable="false">Welcome</string>
+    <string name="select_lectures" translatable="false">Select Lectures</string>
+    <string name="firebase_active" translatable="false">ActiveLecture</string>
+    <string name="firebase_lectures" translatable="false">Lectures</string>
+    <string name="firebase_users" translatable="false">Users</string>
+
+</resources>
